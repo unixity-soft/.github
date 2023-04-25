@@ -42,6 +42,6 @@ We also offer a variety of consulting services, such as:
 - We use the latest technologies Includeing Rust ! , to provide our clients with the best possible solutions.
 - We have a team of experienced developers who are experts in their field.
 - We are committed to providing our clients with the highest quality of service.
-- We offer a wide range of services, including web development, mobile development, cloud computing, data science, machine learning, and artificial intelligence.
-- We also offer a variety of consulting services, such as business analysis, requirements gathering, system design, software architecture, testing, and deployment.
+- We offer a wide range of services, including web development, mobile development, desktop development, cloud apps development, security testing  
+-  We also offer a variety of consulting services, such as business analysis, requirements gathering, system design, software architecture, testing, and deployment.
 - If you are looking for a software development company that can provide you with the best possible solutions, then **Unixty Soft** is the right choice for you. Contact us today to learn more about our services.

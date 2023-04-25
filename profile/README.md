@@ -1,4 +1,4 @@
-# Unixity
+# Unixity Soft
 
 ## About 
 

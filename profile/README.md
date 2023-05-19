@@ -13,6 +13,7 @@ We offer a wide range of software development services, including:
 - Cloud computing soluations includeing deployment & cloud apps development
 - Desktop development
 - Custom software development
+- AI and Machine Learning Soluations
 
 
 We also offer a variety of consulting services, such as:
@@ -23,6 +24,7 @@ We also offer a variety of consulting services, such as:
 - Software architecture
 - Testing
 - Deployment
+- AI and Machine Learning Soluations
 
 ## Our Teams 
 
